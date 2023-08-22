@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+    text-align: center;
+    font-family: "Verdana",sans-serif;
+    font-weight: normal;
+}
+.header--main {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+.header--sec {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+
+.header--sub {
+    font-size: 21px;
+    color: grey;
+}
+.header--down {
+    font-size: 21px;
+    color: white;
+}
+
+.footer {
+    font-size: 21px;
+    color: grey;
+    text-align: right;
+}
+
+
+.link--cta {
+    font-size: 16px;
+    color: aquamarine;
+}
+
